@@ -18,6 +18,8 @@ react-icons - Biblioteca de ícones para react.
 
 recharts - Utilizado para design e manipulação de gráficos.
 
+Backend - como banco de imagens a aplicação utiliza a API : https://pokeapi.co/
+
 ## Como clonar e rodar a aplicação
 
 Essa aplicação necessita de yarn ou npm instalado
